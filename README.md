@@ -1,2 +1,2 @@
 # Python-for-Data-Science
-This repository is a collection Jupyter Notbooks related to **Python Fundamentlas and Python Data structures**.
+This repository is a collection Jupyter Notbooks related to **Python Fundamentals and Python Data structures**.
