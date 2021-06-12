@@ -17,14 +17,24 @@ while Loops
 
 range()
 
-list comprehension
-
 functions
+
+Advance Topics :
+
+a container
+
+an iterable
+
+an iterator
+
+a generator
+
+a {list, set, dict} comprehension
 
 lambda expressions
 
 map, reduce and filter
 
-most commonly used methods.
+most commonly used methods
 
 OOPS concepts overview
